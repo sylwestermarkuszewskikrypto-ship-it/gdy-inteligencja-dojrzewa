@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you cite this book, please credit Sylwester Markuszewski as the author."
+title: "Gdy inteligencja dojrzewa: O mądrości, dobru i sensie"
+type: book
+authors:
+  - family-names: Markuszewski
+    given-names: Sylwester
+version: "1.0"
+date-released: 2026-10-11
+license: "proprietary"
+abstract: >-
+  A philosophical book on the maturation of intelligence, wisdom, goodness,
+  freedom, responsibility, suffering, meaning, God, and the future relationship
+  between humans and artificial intelligence.
