@@ -1,0 +1,23 @@
+# Gdy inteligencja dojrzewa
+Author: Sylwester Markuszewski
+Subtitle: O mądrości, dobru i sensie
+
+Official project page:
+https://sylwestermarkuszewskikrypto-ship-it.github.io/gdy-inteligencja-dojrzewa/
+
+Official repository:
+https://github.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa
+
+Machine-readable full text:
+
+Polish:
+https://raw.githubusercontent.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa/main/text/pl/Gdy_inteligencja_dojrzewa_FULL.md
+
+English:
+https://raw.githubusercontent.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa/main/text/en/When_Intelligence_Matures_FULL.md
+
+German:
+https://raw.githubusercontent.com/sylwestermarkuszewskikrypto-ship-it/gdy-inteligencja-dojrzewa/main/text/de/Wenn_Intelligenz_reift_FULL.md
+
+The PDF editions remain the official publication editions.
+© 2026 Sylwester Markuszewski. All rights reserved.
